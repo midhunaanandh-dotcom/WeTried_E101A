@@ -1,0 +1,7 @@
+{
+  "name": "Amrita Campus Intranet - Modernized",
+  "description": "A modernized version of the Amrita Vishwa Vidyapeetham Coimbatore intranet, featuring a clean dashboard, academic tracking, and an AI-powered academic advisor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
