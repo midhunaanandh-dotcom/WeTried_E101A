@@ -21,6 +21,7 @@ export interface Announcement {
 export interface InternalMarkSplit {
   name: string;
   value: number;
+  [key: string]: string | number | undefined;
 }
 
 export interface Course {
